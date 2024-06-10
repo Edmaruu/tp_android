@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tp_Android</string>
+    <string name="search_hint">Cherchez un pays</string>
+    <string name="country_flag">drapeau</string>
+</resources>
